@@ -1,6 +1,6 @@
 # Adivinhamon
 
-# Adivinhamon - Jogo de Adivinhação de Pokémon
+# Adivinhamon - Jogo de Adivinhação de Pokémon (INCOMPLETO)
 
 <div align="center">
   <img src="./images/favicon.ico" alt="Adivinhamon Logo" width="80">
